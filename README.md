@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of flarumchina/flarum-ext-sitemap-chinese.** Not for installation: use [Packagist](https://packagist.org/packages/flarumchina/flarum-ext-sitemap-chinese) or the [upstream repository](https://github.com/FlarumChina/flarum-ext-sitemap-chinese).
 
-**0** versions archived · Latest: [`v1.0.4`](https://github.com/flarchive/flarumchina-flarum-ext-sitemap-chinese/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**1** versions archived · Latest: [`v1.0.4`](https://github.com/flarchive/flarumchina-flarum-ext-sitemap-chinese/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.4` | 2018-02-15 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-sitemap-chinese/tree/archive/v1.0.4) |
 
 Catalog entry: [packages/flarumchina-flarum-ext-sitemap-chinese.json](https://github.com/flarchive/archive-index/blob/main/packages/flarumchina-flarum-ext-sitemap-chinese.json)
 
